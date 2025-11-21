@@ -36,3 +36,6 @@ Desarrollar una experiencia de Realidad Aumentada modular y documentada, compati
 - [x] Activar depuración USB
 - [x] Permitir instalación de apps vía USB
 - [x] Conectar por cable y verificar con `adb devices`
+
+## ⚙️ Guia de implantacion
+- [x] UnityARAndroid.pdf
