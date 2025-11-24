@@ -43,7 +43,7 @@ Desarrollar una experiencia de Realidad Aumentada modular y documentada, compati
 # 📱 Resumen funcional de la aplicación AR
 
 ### 🎯 ¿Qué hace la app?
-La aplicación permite **colocar, manipular y eliminar objetos 3D en un entorno de realidad aumentada** usando la cámara del móvil y gestos táctiles.  
+La aplicación permite **colocar, manipular y eliminar objetos 3D (The Train), en un entorno de realidad aumentada** usando la cámara del móvil y gestos táctiles.  
 Está diseñada para dispositivos Android compatibles con **ARCore** y utiliza el **nuevo Input System de Unity** para interpretar los toques en pantalla.
 
 ---
@@ -56,12 +56,12 @@ Está diseñada para dispositivos Android compatibles con **ARCore** y utiliza e
 
 2. **Colocar objetos**
    - Toca la pantalla sobre una superficie detectada.
-   - Se colocará un objeto 3D (The train, objeto creado con Blender) en esa posición.
+   - Se colocará un objeto 3D (The Train, objeto creado con Blender) en esa posición.
    - La app evita que se coloquen objetos demasiado cerca unos de otros.
 
 3. **Seleccionar y manipular**
    - Con un dedo puedes:
-     - **Seleccionarlo**, con un único toque, el train cambia de color.
+     - **Seleccionarlo**, con un único toque, the train cambia de color.
      - **Moverlo** arrastrando sobre la superficie.
    - Con dos dedos puedes:
      - **Escalarlo** con gesto de pinza (acercar/alejar dedos).
