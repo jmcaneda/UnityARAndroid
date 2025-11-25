@@ -38,7 +38,10 @@ Desarrollar una experiencia de Realidad Aumentada modular y documentada, compati
 - [x] Conectar por cable y verificar con `adb devices`
 
 ## ⚙️ Guia de implantacion
-- [x] UnityARAndroid.pdf
+- [x] UnityARAndroid.pdf (amplia descripción del modelo constructivo de la aplicación)
+
+## ⚙️ Guia Blender
+- [x] Blender.pdf (de ayuda para la confección del modelo 3D y exportación a Unity)
 
 # 📱 Resumen funcional de la aplicación AR
 
