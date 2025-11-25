@@ -37,7 +37,7 @@ Desarrollar una experiencia de Realidad Aumentada modular y documentada, compati
 - [x] Permitir instalación de apps vía USB
 - [x] Conectar por cable y verificar con `adb devices`
 
-## ⚙️ Guia de implantacion
+## ⚙️ Guia de implantacion en Unity
 - [x] UnityARAndroid.pdf (amplia descripción del modelo constructivo de la aplicación)
 
 ## ⚙️ Guia Blender
